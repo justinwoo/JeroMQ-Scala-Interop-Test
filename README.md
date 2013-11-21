@@ -1,7 +1,7 @@
 JeroMQ-Scala-Interop-Test
 =========================
 
-a test using JeroMQ with Scala/Java Interop for fun and boilerplate
+a test using [JeroMQ](https://github.com/zeromq/jeromq) with Scala/Java Interop for fun and boilerplate
 
 How to Run
 ========================
@@ -13,3 +13,8 @@ Preview
 ![this is how it looks like!][screenshot]
 
 [screenshot]: http://i.imgur.com/tXrqB1P.png
+
+Notice
+=======================
+
+uses maven to grab the JeroMQ jar file.
